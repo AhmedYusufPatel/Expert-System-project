@@ -1,0 +1,36 @@
+C:\Users\Armee\Documents\MathTutoringExpertSystem\MathTutoringExpertSystem\bin\Debug\MathTutoringExpertSystem.exe.config
+C:\Users\Armee\Documents\MathTutoringExpertSystem\MathTutoringExpertSystem\bin\Debug\MathTutoringExpertSystem.exe
+C:\Users\Armee\Documents\MathTutoringExpertSystem\MathTutoringExpertSystem\bin\Debug\MathTutoringExpertSystem.pdb
+C:\Users\Armee\Documents\MathTutoringExpertSystem\MathTutoringExpertSystem\obj\Debug\MathTutoringExpertSystem.csprojResolveAssemblyReference.cache
+C:\Users\Armee\Documents\MathTutoringExpertSystem\MathTutoringExpertSystem\obj\Debug\MathTutoringExpertSystem.Form1.resources
+C:\Users\Armee\Documents\MathTutoringExpertSystem\MathTutoringExpertSystem\obj\Debug\MathTutoringExpertSystem.Properties.Resources.resources
+C:\Users\Armee\Documents\MathTutoringExpertSystem\MathTutoringExpertSystem\obj\Debug\MathTutoringExpertSystem.csproj.GenerateResource.Cache
+C:\Users\Armee\Documents\MathTutoringExpertSystem\MathTutoringExpertSystem\obj\Debug\MathTutoringExpertSystem.exe
+C:\Users\Armee\Documents\MathTutoringExpertSystem\MathTutoringExpertSystem\obj\Debug\MathTutoringExpertSystem.pdb
+C:\Users\Arno\Desktop\Expert System\MathTutoringExpertSystem\bin\Debug\MathTutoringExpertSystem.exe.config
+C:\Users\Arno\Desktop\Expert System\MathTutoringExpertSystem\bin\Debug\MathTutoringExpertSystem.exe
+C:\Users\Arno\Desktop\Expert System\MathTutoringExpertSystem\bin\Debug\MathTutoringExpertSystem.pdb
+C:\Users\Arno\Desktop\Expert System\MathTutoringExpertSystem\obj\Debug\MathTutoringExpertSystem.csprojResolveAssemblyReference.cache
+C:\Users\Arno\Desktop\Expert System\MathTutoringExpertSystem\obj\Debug\MathTutoringExpertSystem.Form1.resources
+C:\Users\Arno\Desktop\Expert System\MathTutoringExpertSystem\obj\Debug\MathTutoringExpertSystem.Properties.Resources.resources
+C:\Users\Arno\Desktop\Expert System\MathTutoringExpertSystem\obj\Debug\MathTutoringExpertSystem.csproj.GenerateResource.Cache
+C:\Users\Arno\Desktop\Expert System\MathTutoringExpertSystem\obj\Debug\MathTutoringExpertSystem.csproj.CoreCompileInputs.cache
+C:\Users\Arno\Desktop\Expert System\MathTutoringExpertSystem\obj\Debug\MathTutoringExpertSystem.exe
+C:\Users\Arno\Desktop\Expert System\MathTutoringExpertSystem\obj\Debug\MathTutoringExpertSystem.pdb
+C:\Users\Arno\Desktop\Expert System\MathTutoringExpertSystem\obj\Debug\MathTutoringExpertSystem.Form2.resources
+C:\Users\Armee\Documents\itrw-313-es\MathTutoringExpertSystem\bin\Debug\MathTutoringExpertSystem.exe.config
+C:\Users\Armee\Documents\itrw-313-es\MathTutoringExpertSystem\bin\Debug\MathTutoringExpertSystem.exe
+C:\Users\Armee\Documents\itrw-313-es\MathTutoringExpertSystem\bin\Debug\MathTutoringExpertSystem.pdb
+C:\Users\Armee\Documents\itrw-313-es\MathTutoringExpertSystem\obj\Debug\MathTutoringExpertSystem.csprojResolveAssemblyReference.cache
+C:\Users\Armee\Documents\itrw-313-es\MathTutoringExpertSystem\obj\Debug\MathTutoringExpertSystem.Form1.resources
+C:\Users\Armee\Documents\itrw-313-es\MathTutoringExpertSystem\obj\Debug\MathTutoringExpertSystem.Form2.resources
+C:\Users\Armee\Documents\itrw-313-es\MathTutoringExpertSystem\obj\Debug\MathTutoringExpertSystem.Properties.Resources.resources
+C:\Users\Armee\Documents\itrw-313-es\MathTutoringExpertSystem\obj\Debug\MathTutoringExpertSystem.csproj.GenerateResource.Cache
+C:\Users\Armee\Documents\itrw-313-es\MathTutoringExpertSystem\obj\Debug\MathTutoringExpertSystem.exe
+C:\Users\Armee\Documents\itrw-313-es\MathTutoringExpertSystem\obj\Debug\MathTutoringExpertSystem.pdb
+C:\Users\Armee\Documents\itrw-313-es\MathTutoringExpertSystem\bin\Debug\Mommosoft.ExpertSystem.dll
+C:\Users\Armee\Documents\itrw-313-es\MathTutoringExpertSystem\obj\Debug\MathTutoringExpertSystem.GeneratorClass.resources
+C:\Users\Armee\Documents\itrw-313-es\MathTutoringExpertSystem\obj\Debug\MathTutoringExpertSystem.Help.resources
+C:\Users\Armee\Desktop\Expert System Project\GUI version\itrw-313-es\MathTutoringExpertSystem\bin\Debug\MathTutoringExpertSystem.exe.config
+C:\Users\Armee\Desktop\Expert System Project\GUI version\itrw-313-es\MathTutoringExpertSystem\obj\Debug\MathTutoringExpertSystem.exe
+C:\Users\Armee\Desktop\Expert System Project\GUI version\itrw-313-es\MathTutoringExpertSystem\obj\Debug\MathTutoringExpertSystem.pdb
